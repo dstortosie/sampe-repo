@@ -1,2 +1,2 @@
 # sampe-repo
-git練習用
+更新
